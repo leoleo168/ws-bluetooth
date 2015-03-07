@@ -1,4 +1,4 @@
-int ledPin = 13; 
+int ledPin = 10; 
 int state = 0;
 int flag = 0; 
 
